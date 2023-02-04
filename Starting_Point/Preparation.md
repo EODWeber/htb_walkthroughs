@@ -17,7 +17,7 @@ This document is a walkthrough for completing the preparations to connect to the
 [ParrotOS - Home](https://parrotsec.org/)  
 [ParrotOS - Downloads](https://parrotsec.org/download)  
 [VMWare Fusion Player](https://vmware.com/products/fusion/fusion-evaluation.html)  
-[VMWare Fusion - Customer Connect](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal-13)  
+[VMWare Fusion - Customer Connect](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal-13) 
 
 ## VM Configuration
 To install virtual machines, your host machine needs to have a type 2 hypervisor software. Availability may vary depending on Operating System (OS), but we chose to use [VM Ware Fusion Player](https://www.vmware.com/products/fusion/fusion-evaluation.html) which is available with a free personal use license (registration required). If you've registered already, use  [Customer Connect](https://customerconnect.vmware.com/evalcenter?p=fusion-player-personal-13) to get your license key or download the software.
