@@ -1,8 +1,9 @@
 ## Quick Links
-[Meow Walkthrough - HTB](blob:https://app.hackthebox.com/2c5bbd81-7479-4cb2-b11c-f8451831980a) 
+[HTB - Starting Point](https://app.hackthebox.com/starting-point) 
+[Meow Walkthrough - HTB](blob:https://app.hackthebox.com/2c5bbd81-7479-4cb2-b11c-f8451831980a)  
 
 ## Preparation
-1. Connect to the *Starting Point VPN*. L. ok for help in the [[Preparation]] documentation.
+1. Connect to the *Starting Point VPN*. Look for help in the [[Preparation]] documentation.
 2. Start the target machine.
 	1. Navigate to the [HTB - Starting Point](https://app.hackthebox.com/starting-point).
 	2. Expand the *Meow* machine. 

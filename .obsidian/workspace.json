@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d5630669bf4f1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starting_Point/Fawn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2dacd7e412112561",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starting_Point/Meow.md",
+                "file": "Starting_Point/Fawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starting_Point/Meow.md",
+                "file": "Starting_Point/Fawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starting_Point/Meow.md"
+                "file": "Starting_Point/Fawn.md"
               }
             }
           }
@@ -147,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32c35d3b0a3375dd",
+  "active": "3d5630669bf4f1ad",
   "lastOpenFiles": [
-    "Starting_Point/Preparation.md",
     "Starting_Point/Meow.md",
+    "Starting_Point/Fawn.md",
+    "Starting_Point/Preparation.md",
     "README.md"
   ]
 }
