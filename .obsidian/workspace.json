@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20cccc9ae01d78e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starting_Point/Dancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starting_Point/Fawn.md",
+                "file": "Starting_Point/Dancing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starting_Point/Fawn.md",
+                "file": "Starting_Point/Dancing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starting_Point/Fawn.md"
+                "file": "Starting_Point/Dancing.md"
               }
             }
           }
@@ -159,9 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d5630669bf4f1ad",
+  "active": "20cccc9ae01d78e6",
   "lastOpenFiles": [
     "Starting_Point/Meow.md",
+    "Starting_Point/Dancing.md",
     "Starting_Point/Fawn.md",
     "Starting_Point/Preparation.md",
     "README.md"
