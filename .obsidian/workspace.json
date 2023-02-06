@@ -8,36 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32c35d3b0a3375dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Starting_Point/Meow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d5630669bf4f1ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Starting_Point/Fawn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20cccc9ae01d78e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starting_Point/Dancing.md",
+                "file": "Starting_Point/Tier_1/Dancing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ae1af3f07aae4ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starting_Point/Tier_1/Redeemer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0bf7e06e1dc8d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starting_Point/Tier_2/Archetype.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starting_Point/Dancing.md",
+                "file": "Starting_Point/Tier_2/Archetype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starting_Point/Dancing.md",
+                "file": "Starting_Point/Tier_2/Archetype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starting_Point/Dancing.md"
+                "file": "Starting_Point/Tier_2/Archetype.md"
               }
             }
           }
@@ -171,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20cccc9ae01d78e6",
+  "active": "d0bf7e06e1dc8d91",
   "lastOpenFiles": [
-    "Starting_Point/Meow.md",
-    "Starting_Point/Dancing.md",
-    "Starting_Point/Fawn.md",
-    "Starting_Point/Preparation.md",
+    "Starting_Point/Tier_1/Redeemer.md",
+    "Starting_Point/Tier_1/Dancing.md",
+    "Starting_Point/Tier_1/Fawn.md",
+    "Starting_Point/Tier_1/Meow.md",
+    "Starting_Point/Tier_1/Preparation.md",
     "README.md"
   ]
 }
