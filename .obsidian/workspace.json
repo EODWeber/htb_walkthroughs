@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20cccc9ae01d78e6",
+            "id": "34253f4e3dd2fd82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starting_Point/Tier_1/Dancing.md",
+                "file": "Starting_Point/Tier_1/Preignition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6ae1af3f07aae4ac",
+            "id": "c5b843cc1f25371b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starting_Point/Tier_1/Redeemer.md",
+                "file": "Starting_Point/Tier_1/Mongod.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d0bf7e06e1dc8d91",
+            "id": "c3a61b3b737fe652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Starting_Point/Tier_2/Archetype.md",
+                "file": "Starting_Point/Tier_2/Appointment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b2e80551c4c5250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starting_Point/Tier_2/Sequel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starting_Point/Tier_2/Archetype.md",
+                "file": "Starting_Point/Tier_2/Sequel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starting_Point/Tier_2/Archetype.md",
+                "file": "Starting_Point/Tier_2/Sequel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Starting_Point/Tier_2/Archetype.md"
+                "file": "Starting_Point/Tier_2/Sequel.md"
               }
             }
           }
@@ -171,13 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0bf7e06e1dc8d91",
+  "active": "3b2e80551c4c5250",
   "lastOpenFiles": [
-    "Starting_Point/Tier_1/Redeemer.md",
-    "Starting_Point/Tier_1/Dancing.md",
-    "Starting_Point/Tier_1/Fawn.md",
-    "Starting_Point/Tier_1/Meow.md",
+    "Starting_Point/Tier_2/Appointment.md",
+    "Starting_Point/Tier_1/Mongod.md",
+    "Starting_Point/Tier_1/Synced.md",
+    "Starting_Point/Tier_1/Preignition.md",
     "Starting_Point/Tier_1/Preparation.md",
-    "README.md"
+    "Starting_Point/Tier_1/Fawn.md",
+    "Starting_Point/Tier_1/Dancing.md",
+    "Starting_Point/Tier_1/Redeemer.md",
+    "Starting_Point/Tier_1/Explosion.md",
+    "Starting_Point/Tier_1/Meow.md"
   ]
 }

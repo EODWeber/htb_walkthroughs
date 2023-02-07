@@ -1,6 +1,6 @@
 ## Quick Links
 [HTB - Starting Point](https://app.hackthebox.com/starting-point)  
-[Dancing Walkthrough](blob:https://app.hackthebox.com/9a446180-85e3-41db-9165-c6869fe7b25d) 
+[Redeemer Walkthrough](blob:https://app.hackthebox.com/9a446180-85e3-41db-9165-c6869fe7b25d) 
 
 ## Preparation
 1. Connect to the *Starting Point* VPN. See the [[Preparation]] documentation for instructions.
